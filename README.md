@@ -6,8 +6,8 @@ Hi, I'm Putra - I am 17 years old. I like experimenting with new technologies, b
 
 ## Here's a list of things I currently keep myself busy with:
 
-* 🌱 Working as a mid-level engineer at NAB using **C#, Java, & TypeScript**
-* 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Grind75**
+* 🌱 I am a vocational high school student in **East Java**.
+* 💼 I'm currently making a WhatsApp bot project using **JavaScript & Nodejs**.
 
 ## Tech Stack
 
