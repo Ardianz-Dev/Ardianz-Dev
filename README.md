@@ -2,7 +2,7 @@
 
 # Hi, I'm Putra
 
-Hi, I'm Putra - I am 17 years old. I love experimenting with new technology, building small projects, and occasionally tinkering with electronics.
+Hi, I'm Putra - I am 17 years old. I like experimenting with new technologies, building small projects like building a WhatsApp bot, and occasionally tinkering with electronics.
 
 ## Here's a list of things I currently keep myself busy with:
 
