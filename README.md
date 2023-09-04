@@ -1,4 +1,4 @@
-![Header](https://github.com/Ardianz-Dev/Ardianz-Dev/blob/master/Assets/Banner.png)
+![Header](https://github.com/Ardianz-Dev/Ardianz-Dev/blob/main/Assets/banner.jpg)
 
 # Hi, I'm Putra
 
