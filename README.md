@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Ardianz-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Header](https://github.com/Ardianz-Dev/Ardianz-Dev/blob/master/Assets/Banner.png)
 
-<!---
-Ardianz-Dev/Ardianz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Putra
+
+Hi, I'm Putra - a graduate of the University of Technology Sydney. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+
+## Here's a list of things I currently keep myself busy with:
+
+* 🌱 Working as a mid-level engineer at NAB using **C#, Java, & TypeScript**
+* 💼 I'm currently revising **Data Structures & Algorithms** through **Leetcode / Grind75**
+
+## Tech Stack
+
+* 💻 C# | Java | Kotlin | Typescript | Python | C++ | C 
+* 🛢️ MongoDB | PostgresSQL | mySQL | SQL Lite
+* ☁ AWS | GCP | Docker | Terraform | Jenkins | DevOps
+
+[![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardianz-Dev)](https://github.com/Ardianz-Dev)
+
+<p align=center>
+<b>Let's create something awesome together!</b>
+</p>
