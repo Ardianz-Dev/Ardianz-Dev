@@ -15,7 +15,7 @@ Hi, I'm Putra - I am 17 years old. I like experimenting with new technologies, b
 * 🛢️ MongoDB | PostgresSQL | mySQL | SQL Lite
 * ☁ AWS | GCP | Docker | Terraform | Jenkins | DevOps
 
-[![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardianz-Dev)](https://github.com/Ardianz-Dev)
+[![Shaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Putra-Dev)](https://github.com/Putra-Dev)
 
 <p align=center>
 <b>Let's create something awesome together!</b>
